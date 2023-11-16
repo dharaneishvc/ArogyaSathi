@@ -6,7 +6,7 @@ Arogyasathi - Healthcare Prediction Tool is a comprehensive mobile/web applicati
 
 ## Project Contributors
 - Dharaneish V C (CB.EN.U4CSE20315)
-- [Full Name] (University ID)
+- [Shanjai Kumar V M] (CB.EN.U4U4CSE20655)
 - [Full Name] (University ID)
 - [Full Name] (University ID)
 
